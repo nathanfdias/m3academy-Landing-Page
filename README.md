@@ -1,2 +1,1 @@
-# m3academy-Landing-Page
-Curso m3academy
+# Practice Time - Landing Page
